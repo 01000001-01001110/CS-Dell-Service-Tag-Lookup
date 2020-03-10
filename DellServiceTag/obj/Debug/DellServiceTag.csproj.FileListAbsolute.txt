@@ -1,0 +1,17 @@
+C:\Users\Sam Plus  Plus\Documents\Visual Studio 2008\Projects\DellServiceTag\DellServiceTag\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sam Plus  Plus\Documents\Visual Studio 2008\Projects\DellServiceTag\DellServiceTag\obj\Debug\DellServiceTag.Form1.resources
+C:\Users\Sam Plus  Plus\Documents\Visual Studio 2008\Projects\DellServiceTag\DellServiceTag\obj\Debug\DellServiceTag.Properties.Resources.resources
+C:\Users\Sam Plus  Plus\Documents\Visual Studio 2008\Projects\DellServiceTag\DellServiceTag\obj\Debug\DellServiceTag.csproj.GenerateResource.Cache
+C:\Users\Sam Plus  Plus\Documents\Visual Studio 2008\Projects\DellServiceTag\DellServiceTag\bin\Debug\DellServiceTag.exe
+C:\Users\Sam Plus  Plus\Documents\Visual Studio 2008\Projects\DellServiceTag\DellServiceTag\bin\Debug\DellServiceTag.pdb
+C:\Users\Sam Plus  Plus\Documents\Visual Studio 2008\Projects\DellServiceTag\DellServiceTag\obj\Debug\DellServiceTag.exe
+C:\Users\Sam Plus  Plus\Documents\Visual Studio 2008\Projects\DellServiceTag\DellServiceTag\obj\Debug\DellServiceTag.pdb
+C:\Users\Newingha\Desktop\DellServiceTag\DellServiceTag\bin\Debug\DellServiceTag.exe
+C:\Users\Newingha\Desktop\DellServiceTag\DellServiceTag\bin\Debug\DellServiceTag.pdb
+C:\Users\Newingha\Desktop\DellServiceTag\DellServiceTag\obj\Debug\DellServiceTag.csprojAssemblyReference.cache
+C:\Users\Newingha\Desktop\DellServiceTag\DellServiceTag\obj\Debug\DellServiceTag.Form1.resources
+C:\Users\Newingha\Desktop\DellServiceTag\DellServiceTag\obj\Debug\DellServiceTag.Properties.Resources.resources
+C:\Users\Newingha\Desktop\DellServiceTag\DellServiceTag\obj\Debug\DellServiceTag.csproj.GenerateResource.cache
+C:\Users\Newingha\Desktop\DellServiceTag\DellServiceTag\obj\Debug\DellServiceTag.csproj.CoreCompileInputs.cache
+C:\Users\Newingha\Desktop\DellServiceTag\DellServiceTag\obj\Debug\DellServiceTag.exe
+C:\Users\Newingha\Desktop\DellServiceTag\DellServiceTag\obj\Debug\DellServiceTag.pdb
