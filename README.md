@@ -12,10 +12,10 @@ The program offers three links.<br>
 -Dell Drivers<br>
 -Dell TechDirect<br></b>
 
-Warranty and drivers were a trick without the API. For instance here's the link to find drivers for a computer: 
+Warranty and drivers were a trick without the API. For instance here's the link to find drivers for a computer: <br>
 <b>https://www.dell.com/support/home/us/en/04/product-support/servicetag/LONGSETOFALPHANUMERICS/overview</b>
 
 Interesting thing I found as I worked through this problem... You can replace the long set of alphanumerics <b>(LONGSETOFALPHANUMERICS)</b> with your service tag and the Dell site will automatically convert it and provide the correct link. No API needed.
 
-So my hackey hack was: 
+So my hackey hack was: <br>
 <b>Process.Start("https://www.dell.com/support/home/us/en/04/product-support/servicetag/" + dellServiceTag + "/overview");</b>
