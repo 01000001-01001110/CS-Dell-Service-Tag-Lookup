@@ -23,3 +23,4 @@ C:\Users\Newingha\Documents\GitHub\CS-Dell-Service-Tag-Lookup\DellServiceTag\obj
 C:\Users\Newingha\Documents\GitHub\CS-Dell-Service-Tag-Lookup\DellServiceTag\obj\Debug\DellServiceTag.csproj.CoreCompileInputs.cache
 C:\Users\Newingha\Documents\GitHub\CS-Dell-Service-Tag-Lookup\DellServiceTag\obj\Debug\DellServiceTag.exe
 C:\Users\Newingha\Documents\GitHub\CS-Dell-Service-Tag-Lookup\DellServiceTag\obj\Debug\DellServiceTag.pdb
+C:\Users\Newingha\Documents\GitHub\CS-Dell-Service-Tag-Lookup\DellServiceTag\obj\Debug\DellServiceTag.csprojAssemblyReference.cache
