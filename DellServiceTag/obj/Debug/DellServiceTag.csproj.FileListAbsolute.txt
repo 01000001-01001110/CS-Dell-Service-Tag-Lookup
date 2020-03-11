@@ -15,3 +15,11 @@ C:\Users\Newingha\Desktop\DellServiceTag\DellServiceTag\obj\Debug\DellServiceTag
 C:\Users\Newingha\Desktop\DellServiceTag\DellServiceTag\obj\Debug\DellServiceTag.csproj.CoreCompileInputs.cache
 C:\Users\Newingha\Desktop\DellServiceTag\DellServiceTag\obj\Debug\DellServiceTag.exe
 C:\Users\Newingha\Desktop\DellServiceTag\DellServiceTag\obj\Debug\DellServiceTag.pdb
+C:\Users\Newingha\Documents\GitHub\CS-Dell-Service-Tag-Lookup\DellServiceTag\bin\Debug\DellServiceTag.exe
+C:\Users\Newingha\Documents\GitHub\CS-Dell-Service-Tag-Lookup\DellServiceTag\bin\Debug\DellServiceTag.pdb
+C:\Users\Newingha\Documents\GitHub\CS-Dell-Service-Tag-Lookup\DellServiceTag\obj\Debug\DellServiceTag.Form1.resources
+C:\Users\Newingha\Documents\GitHub\CS-Dell-Service-Tag-Lookup\DellServiceTag\obj\Debug\DellServiceTag.Properties.Resources.resources
+C:\Users\Newingha\Documents\GitHub\CS-Dell-Service-Tag-Lookup\DellServiceTag\obj\Debug\DellServiceTag.csproj.GenerateResource.cache
+C:\Users\Newingha\Documents\GitHub\CS-Dell-Service-Tag-Lookup\DellServiceTag\obj\Debug\DellServiceTag.csproj.CoreCompileInputs.cache
+C:\Users\Newingha\Documents\GitHub\CS-Dell-Service-Tag-Lookup\DellServiceTag\obj\Debug\DellServiceTag.exe
+C:\Users\Newingha\Documents\GitHub\CS-Dell-Service-Tag-Lookup\DellServiceTag\obj\Debug\DellServiceTag.pdb

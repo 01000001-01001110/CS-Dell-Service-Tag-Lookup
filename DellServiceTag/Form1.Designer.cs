@@ -34,6 +34,7 @@
             this.warrantyLink = new System.Windows.Forms.LinkLabel();
             this.ExpressCodeLabel = new System.Windows.Forms.Label();
             this.ExpressTxtBox = new System.Windows.Forms.TextBox();
+            this.TechDirectLink = new System.Windows.Forms.LinkLabel();
             this.SuspendLayout();
             // 
             // Display
@@ -57,7 +58,7 @@
             // DriversLink
             // 
             this.DriversLink.AutoSize = true;
-            this.DriversLink.Location = new System.Drawing.Point(85, 67);
+            this.DriversLink.Location = new System.Drawing.Point(85, 73);
             this.DriversLink.Name = "DriversLink";
             this.DriversLink.Size = new System.Drawing.Size(40, 13);
             this.DriversLink.TabIndex = 3;
@@ -68,7 +69,7 @@
             // warrantyLink
             // 
             this.warrantyLink.AutoSize = true;
-            this.warrantyLink.Location = new System.Drawing.Point(159, 67);
+            this.warrantyLink.Location = new System.Drawing.Point(12, 73);
             this.warrantyLink.Name = "warrantyLink";
             this.warrantyLink.Size = new System.Drawing.Size(50, 13);
             this.warrantyLink.TabIndex = 4;
@@ -94,11 +95,23 @@
             this.ExpressTxtBox.TabIndex = 6;
             this.ExpressTxtBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
+            // TechDirectLink
+            // 
+            this.TechDirectLink.AutoSize = true;
+            this.TechDirectLink.Location = new System.Drawing.Point(149, 73);
+            this.TechDirectLink.Name = "TechDirectLink";
+            this.TechDirectLink.Size = new System.Drawing.Size(60, 13);
+            this.TechDirectLink.TabIndex = 7;
+            this.TechDirectLink.TabStop = true;
+            this.TechDirectLink.Text = "TechDirect";
+            this.TechDirectLink.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.TechDirectLink_LinkClicked);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(222, 86);
+            this.ClientSize = new System.Drawing.Size(221, 92);
+            this.Controls.Add(this.TechDirectLink);
             this.Controls.Add(this.ExpressTxtBox);
             this.Controls.Add(this.ExpressCodeLabel);
             this.Controls.Add(this.warrantyLink);
@@ -110,7 +123,7 @@
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Dell Service Lookup";
+            this.Text = "Dell Device Lookup Tool";
             this.TopMost = true;
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
@@ -126,6 +139,7 @@
         private System.Windows.Forms.LinkLabel warrantyLink;
         private System.Windows.Forms.Label ExpressCodeLabel;
         private System.Windows.Forms.TextBox ExpressTxtBox;
+        private System.Windows.Forms.LinkLabel TechDirectLink;
     }
 }
 
