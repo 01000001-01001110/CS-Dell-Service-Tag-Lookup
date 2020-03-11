@@ -1,7 +1,9 @@
 # Welcome to the Dell Service Tag Lookup Tool 
 
 This application looks up the Service Tag on the computer from Bios, and converts the service tag to express service code, displaying both. 
-Screenshot:![image](https://user-images.githubusercontent.com/48245017/76416099-cde44e80-6370-11ea-9231-748bb49703bb.png)
+
+Screenshot:
+![image](https://user-images.githubusercontent.com/48245017/76416099-cde44e80-6370-11ea-9231-748bb49703bb.png)
 
 I originally wanted to use the Dell RestAPI, however our organization does not use the API. So I found another way to look up the info we need. 
 
