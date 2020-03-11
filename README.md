@@ -13,8 +13,9 @@ The program offers three links.
 -Dell TechDirect
 
 Warranty and drivers were a trick without the API. For instance here's the link to find drivers for a computer: 
-https://www.dell.com/support/home/us/en/04/product-support/servicetag/0-YWtHcnNGN3Z6eVJqUkxmM0hXVDR6UT090/drivers
-Interestingly, You can replace the long set of alphanumerics with your service tag and the Dell site will automatically convert it and provide the correct link. 
+https://www.dell.com/support/home/us/en/04/product-support/servicetag/LONGSETOFALPHANUMERICS/overview
+
+Interesting thing I found as I worked through this problem... You can replace the long set of alphanumerics (LONGSETOFALPHANUMERICS) with your service tag and the Dell site will automatically convert it and provide the correct link. No API needed.
 
 So my hackey hack was: 
 Process.Start("https://www.dell.com/support/home/us/en/04/product-support/servicetag/" + dellServiceTag + "/overview");
