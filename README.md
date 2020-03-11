@@ -1,4 +1,4 @@
-# Welcome to the Dell Service Tag Lookup Tool 
+# Welcome 
 
 This application looks up the Service Tag on the computer from Bios, and converts the service tag to express service code, displaying both. 
 
